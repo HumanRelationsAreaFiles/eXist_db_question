@@ -1,0 +1,36 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shared-resources/resources/scripts/jquery" version="1" owner="admin" group="dba" mode="775" created="2016-02-15T14:23:36.481-05:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="jquery.cookie.js" skip="no" owner="admin" group="dba" mode="775" created="2016-02-15T14:23:36.483-05:00" modified="2016-02-15T14:23:36.483-05:00" filename="jquery.cookie.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.scrollExtend.min.js" skip="no" owner="admin" group="dba" mode="775" created="2016-02-15T14:23:36.484-05:00" modified="2016-02-15T14:23:36.484-05:00" filename="jquery.scrollExtend.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery-utils.js" skip="no" owner="admin" group="dba" mode="775" created="2016-02-15T14:23:36.485-05:00" modified="2016-02-15T14:23:36.485-05:00" filename="jquery-utils.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery-1.7.1.min.js" skip="no" owner="admin" group="dba" mode="775" created="2016-02-15T14:23:36.486-05:00" modified="2016-02-15T14:23:36.486-05:00" filename="jquery-1.7.1.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.dynatree-1.2.5.min.js" skip="no" owner="admin" group="dba" mode="775" created="2016-02-15T14:23:36.487-05:00" modified="2016-02-15T14:23:36.487-05:00" filename="jquery.dynatree-1.2.5.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery-ui-1.8.custom.min.js" skip="no" owner="admin" group="dba" mode="775" created="2016-02-15T14:23:36.488-05:00" modified="2016-02-15T14:23:36.488-05:00" filename="jquery-ui-1.8.custom.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.dynatree-1.1.1.min.js" skip="no" owner="admin" group="dba" mode="775" created="2016-02-15T14:23:36.49-05:00" modified="2016-02-15T14:23:36.49-05:00" filename="jquery.dynatree-1.1.1.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery-ui.min.js" skip="no" owner="admin" group="dba" mode="775" created="2016-02-15T14:23:36.491-05:00" modified="2016-02-15T14:23:36.491-05:00" filename="jquery-ui.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.dataTables-1.8.1.min.js" skip="no" owner="admin" group="dba" mode="775" created="2016-02-15T14:23:36.481-05:00" modified="2016-02-15T14:23:36.481-05:00" filename="jquery.dataTables-1.8.1.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jquery.pnotify.min.js" skip="no" owner="admin" group="dba" mode="775" created="2016-02-15T14:23:36.483-05:00" modified="2016-02-15T14:23:36.483-05:00" filename="jquery.pnotify.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="css" filename="css"/>
+    <subcollection name="flot" filename="flot"/>
+    <subcollection name="skin" filename="skin"/>
+</collection>

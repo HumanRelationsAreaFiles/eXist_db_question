@@ -1,0 +1,19 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/system/security/exist/accounts" version="1" owner="SYSTEM" group="dba" mode="770" created="2016-02-15T14:23:35.572-05:00">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="admin.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2016-02-15T14:23:35.585-05:00" modified="2016-02-15T16:44:20.721-05:00" filename="admin.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="guest.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2016-02-15T14:23:35.635-05:00" modified="2016-02-15T14:23:35.651-05:00" filename="guest.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="editor.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2016-02-15T16:44:20.734-05:00" modified="2016-02-15T16:44:20.744-05:00" filename="editor.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="monex.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2016-02-15T14:52:48.488-05:00" modified="2016-02-15T14:52:48.5-05:00" filename="monex.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="eXide.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2016-02-15T14:23:38.274-05:00" modified="2016-02-15T14:23:38.288-05:00" filename="eXide.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="removed" filename="removed"/>
+</collection>

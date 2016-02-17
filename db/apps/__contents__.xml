@@ -1,0 +1,7 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps" version="1" owner="SYSTEM" group="dba" mode="755" created="2016-02-15T14:23:35.961-05:00">
+    <acl entries="0" version="1"/>
+    <subcollection name="shared-resources" filename="shared-resources"/>
+    <subcollection name="eXide" filename="eXide"/>
+    <subcollection name="eHRAF" filename="eHRAF"/>
+    <subcollection name="dashboard" filename="dashboard"/>
+</collection>

@@ -1,0 +1,7 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/system/security" version="1" owner="SYSTEM" group="dba" mode="770" created="2016-02-15T14:23:35.548-05:00">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="config.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2016-02-15T14:23:35.552-05:00" modified="2016-02-15T16:44:20.74-05:00" filename="config.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="exist" filename="exist"/>
+</collection>

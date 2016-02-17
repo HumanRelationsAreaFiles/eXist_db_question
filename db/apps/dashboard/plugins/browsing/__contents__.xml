@@ -1,0 +1,25 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/plugins/browsing" version="1" owner="admin" group="dba" mode="755" created="2016-02-15T14:52:19.409-05:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="browsing.css" skip="no" owner="admin" group="dba" mode="644" created="2016-02-15T14:52:19.417-05:00" modified="2016-02-15T14:52:19.417-05:00" filename="browsing.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="browsing.js" skip="no" owner="admin" group="dba" mode="644" created="2016-02-15T14:52:19.417-05:00" modified="2016-02-15T14:52:19.417-05:00" filename="browsing.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="upload.xql" skip="no" owner="admin" group="dba" mode="755" created="2016-02-15T14:52:19.416-05:00" modified="2016-02-15T14:52:19.416-05:00" filename="upload.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="controller.xql" skip="no" owner="admin" group="dba" mode="755" created="2016-02-15T14:52:19.416-05:00" modified="2016-02-15T14:52:19.416-05:00" filename="controller.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="browsing.less" skip="no" owner="admin" group="dba" mode="644" created="2016-02-15T14:52:19.415-05:00" modified="2016-02-15T14:52:19.415-05:00" filename="browsing.less" mimetype="application/less">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="browsing.html" skip="no" owner="admin" group="dba" mode="644" created="2016-02-15T14:52:19.41-05:00" modified="2016-02-15T14:52:19.41-05:00" filename="browsing.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="service.xql" skip="no" owner="admin" group="dba" mode="755" created="2016-02-15T14:52:19.409-05:00" modified="2016-02-15T14:52:19.409-05:00" filename="service.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="images" filename="images"/>
+</collection>

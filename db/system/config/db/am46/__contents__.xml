@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/system/config/db/am46" version="1" owner="admin" group="dba" mode="755" created="2016-02-15T14:41:28.104-05:00">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="collection.xconf" skip="no" owner="admin" group="dba" mode="644" created="2016-02-15T14:41:37.592-05:00" modified="2016-02-16T13:24:16.497-05:00" filename="collection.xconf" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

@@ -1,0 +1,10 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/eHRAF/indexing" version="1" owner="guest" group="dba" mode="777" created="2016-02-15T14:43:08.108-05:00">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="toHTML.xsl" skip="no" owner="admin" group="dba" mode="777" created="2016-02-15T14:44:26.361-05:00" modified="2016-02-15T14:44:26.361-05:00" filename="toHTML.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="controller.xq" skip="no" owner="admin" group="dba" mode="777" created="2016-02-15T14:44:18.338-05:00" modified="2016-02-17T11:59:43.375-05:00" filename="controller.xq" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="modules" filename="modules"/>
+</collection>
