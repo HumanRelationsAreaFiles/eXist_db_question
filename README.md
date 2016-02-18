@@ -7,9 +7,10 @@
   3. Performance during indexing?
 
 # Background
-Founded at Yale University, Human Relations Area Files (HRAF) is an internationally recognized organization in the field of cultural anthropology. 
-HRAF's mission is to encourage and facilitate the cross-cultural study of human
-culture, society, and behavior in the past and present. 
+Founded at Yale University, Human Relations Area Files (HRAF) is an internationally
+recognized organization in the field of cultural anthropology. HRAF's mission 
+is to encourage and facilitate the cross-cultural study of human culture, 
+society, and behavior in the past and present. 
 
 More plainly we are taking ethnographies about cultures and having trained 
 anthropologists attach metadata at the paragraph and page level. 
@@ -111,13 +112,15 @@ in as quick as possible.
 We have considered updating only one page at a time. However, this is 
 undesirable for two reasons. The first is that often times page metadata does
 not change that often across the doucment. Additionally, it is not unusual
-for the page metadata across multiple pages to be modified slightly during the review process. 
+for the page metadata across multiple pages to be modified slightly during the 
+review process. 
 
 Additionally, we have long thought about removing the page level metadata from 
 the document all together. Perhaps adding it to a relational database would 
-make for quicker performance during document analysis. This would account for a semi
-radical departure from what we have been trying to accomplish and our current applications require it being in the XML already. We could always 
-pump it back into the xml at a later point. 
+make for quicker performance during document analysis. This would account for a 
+radical departure from what we have been trying to accomplish and our current 
+applications require it being in the XML already. We could always pump it back
+into the xml at a later point. 
 
 
 
@@ -130,5 +133,7 @@ Necessary each time a document is updated or added? And does an hour sound appro
 considering the `collection.xconf` that can be seen under `/db/system/config/db/am46`
 
 #Performance during indexing
-When indexing the database completely grinds to a half. It will finish, but almost never are we able to retrieve any response from the database until the indexing finishes.
-This makes the question related to Indexing speed all the more relevant. 
+When indexing the database completely grinds to a half. It will finish, but 
+almost never are we able to retrieve any response from the database until the
+indexing finishes. This makes the question related to Indexing speed all the
+more relevant. 
