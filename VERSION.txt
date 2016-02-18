@@ -1,0 +1,5 @@
+#eXist build info
+project.version=3.0.RC2
+project.built=20160215120213
+scm.branch=develop
+scm.revision=e834cc1
